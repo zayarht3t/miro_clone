@@ -87,7 +87,6 @@ export const Actions = ({
                         Delete
                     </Button>                    
                 </ConfirmModal>
-
             </DropdownMenuContent>
         </DropdownMenu>
     )
